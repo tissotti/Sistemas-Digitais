@@ -1,1 +1,2 @@
-# trabalho1
+#Trabalhos do semestre 
+Sistemas Digitais - Verilog
